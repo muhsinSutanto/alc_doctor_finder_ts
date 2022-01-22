@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/alc_doctor_finder_ts/static/css/main.fe7e5344.css",
+    "main.js": "/alc_doctor_finder_ts/static/js/main.a65b0d47.js",
+    "static/js/787.7f615c0c.chunk.js": "/alc_doctor_finder_ts/static/js/787.7f615c0c.chunk.js",
+    "index.html": "/alc_doctor_finder_ts/index.html",
+    "main.fe7e5344.css.map": "/alc_doctor_finder_ts/static/css/main.fe7e5344.css.map",
+    "main.a65b0d47.js.map": "/alc_doctor_finder_ts/static/js/main.a65b0d47.js.map",
+    "787.7f615c0c.chunk.js.map": "/alc_doctor_finder_ts/static/js/787.7f615c0c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe7e5344.css",
+    "static/js/main.a65b0d47.js"
+  ]
+}
